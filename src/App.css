@@ -1,0 +1,156 @@
+.App {
+  background: url(./images/borderless-corkboard.jpeg) no-repeat;
+  background-size: cover;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+header {
+  padding: 20px;
+}
+
+button {
+  align-self: center;
+  background: lightgrey;
+  padding: 1rem 1rem;
+  margin: 0 1rem;
+  transition: all 0.5s ease;
+  color: #41403e;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  outline: none;
+  box-shadow: 20px 38px 34px -26px hsla(0, 0%, 0%, 0.2);
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+button:hover {
+  box-shadow: 2px 8px 4px -6px hsla(0, 0%, 0%, 0.3);
+}
+
+div img {
+  width: 10rem;
+  height: 10rem;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-between;
+}
+
+.onesie {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.note {
+  width: 15rem;
+  height: 15rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  float: left;
+  margin: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+h1 {
+  font-family: "Patrick Hand Sc", cursive;
+  font-size: 3rem;
+  color: black;
+}
+
+.text {
+  margin: 10px;
+  font-family: "Patrick Hand SC", cursive;
+  font-size: 20px;
+  color: #1a1a1a;
+}
+
+.sticky0 {
+  transform: rotate(3.5deg);
+  -webkit-transform: rotate(3.5deg);
+  -moz-transform: rotate(3.5deg);
+  background-color: #707020;
+}
+
+.pgkhw1 {
+  background: url(./images/codequiz.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.project1 {
+  background: url(./images/teamoneLOTR.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.dayplanner {
+  background: url(./images/workdaysched.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.project2 {
+  background: url(./images/battlepic.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.email {
+  background: url(./images/sendmailicon.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.linkedin {
+  background: url(./images/linkedinicon.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.github {
+  background: url(./images/githubicon.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.sticky1 {
+  transform: rotate(-3.5deg);
+  -webkit-transform: rotate(-3.5deg);
+  -moz-transform: rotate(-3.5deg);
+  background-color: #fb1;
+}
+
+.sticky2 {
+  transform: rotate(3.5deg);
+  -webkit-transform: rotate(3.5deg);
+  -moz-transform: rotate(3.5deg);
+  background-color: #de1e7e;
+}
+
+.sticky3 {
+  transform: rotate(-3.5deg);
+  -webkit-transform: rotate(-3.5deg);
+  -moz-transform: rotate(-3.5deg);
+  background-color: #5a17ed;
+}
+
+.note .pin {
+  background: url(./images/redpushpin.png) no-repeat;
+  background-size: contain;
+  height: 3rem;
+  width: 3rem;
+  background-position: center;
+}
+
+section.frame article:hover.note {
+  border: 1px solid rgba(0, 0, 0, 0.75);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  transform: scale(1.1);
+}
