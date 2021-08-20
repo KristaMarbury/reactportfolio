@@ -1,5 +1,5 @@
 .App {
-  background: url(./images/borderless-corkboard.jpeg) no-repeat;
+  background: url(./assets/images/borderless-corkboard.jpeg) no-repeat;
   background-size: cover;
 }
 
@@ -78,43 +78,43 @@ h1 {
 }
 
 .pgkhw1 {
-  background: url(./images/codequiz.png) no-repeat;
+  background: url(./assets/images/codequiz.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .project1 {
-  background: url(./images/teamoneLOTR.png) no-repeat;
+  background: url(./assets/images/teamoneLOTR.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .dayplanner {
-  background: url(./images/workdaysched.png) no-repeat;
+  background: url(./assets/images/workdaysched.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .project2 {
-  background: url(./images/battlepic.png) no-repeat;
+  background: url(./assets/images/battlepic.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .email {
-  background: url(./images/sendmailicon.png) no-repeat;
+  background: url(./assets/images/sendmailicon.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .linkedin {
-  background: url(./images/linkedinicon.png) no-repeat;
+  background: url(./assets/images/linkedinicon.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .github {
-  background: url(./images/githubicon.png) no-repeat;
+  background: url(./assets/images/githubicon.png) no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -141,7 +141,7 @@ h1 {
 }
 
 .note .pin {
-  background: url(./images/redpushpin.png) no-repeat;
+  background: url(./assets/images/redpushpin.png) no-repeat;
   background-size: contain;
   height: 3rem;
   width: 3rem;
