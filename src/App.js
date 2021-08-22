@@ -39,7 +39,7 @@ function App() {
           </Route>
 
           {/* <!-- Sticky Notes To Connect with Me --> */}
-          <Route exact path="/connections">
+          <Route exact path="/connect">
             <Connections />
           </Route>
 
