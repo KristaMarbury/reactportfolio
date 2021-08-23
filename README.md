@@ -21,7 +21,7 @@ This website will be updated as I embark on new projects and create new and awes
 
 # Setup/Installation Requirements
 
-The application can be accessed at 
+The application can be accessed at https://kristamarbury.github.io/reactportfolio/
 
 # Known Bugs
 
