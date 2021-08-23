@@ -1,6 +1,6 @@
 {
   "homepage": "https://kristamarbury.github.io/reactportfolio",
-  "name": "callingcard",
+  "name": "reactportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
