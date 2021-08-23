@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.8385af3c.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.022aada9.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.022aada9.chunk.js.map",
-    "runtime-main.js": "/reactportfolio/static/js/runtime-main.35478697.js",
-    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.35478697.js.map",
-    "static/js/2.c07b828b.chunk.js": "/reactportfolio/static/js/2.c07b828b.chunk.js",
-    "static/js/2.c07b828b.chunk.js.map": "/reactportfolio/static/js/2.c07b828b.chunk.js.map",
-    "static/js/3.fffbbc45.chunk.js": "/reactportfolio/static/js/3.fffbbc45.chunk.js",
-    "static/js/3.fffbbc45.chunk.js.map": "/reactportfolio/static/js/3.fffbbc45.chunk.js.map",
+    "main.js": "/reactportfolio/static/js/main.887434d1.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.887434d1.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.27ebb979.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.27ebb979.js.map",
+    "static/js/2.8a9d07a1.chunk.js": "/reactportfolio/static/js/2.8a9d07a1.chunk.js",
+    "static/js/2.8a9d07a1.chunk.js.map": "/reactportfolio/static/js/2.8a9d07a1.chunk.js.map",
+    "static/js/3.eb351fcf.chunk.js": "/reactportfolio/static/js/3.eb351fcf.chunk.js",
+    "static/js/3.eb351fcf.chunk.js.map": "/reactportfolio/static/js/3.eb351fcf.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
     "static/css/main.8385af3c.chunk.css.map": "/reactportfolio/static/css/main.8385af3c.chunk.css.map",
-    "static/js/2.c07b828b.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.c07b828b.chunk.js.LICENSE.txt",
+    "static/js/2.8a9d07a1.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.8a9d07a1.chunk.js.LICENSE.txt",
     "static/media/IMG_1119.76c59e5e.PNG": "/reactportfolio/static/media/IMG_1119.76c59e5e.PNG",
     "static/media/IMG_1133.6a20fe32.PNG": "/reactportfolio/static/media/IMG_1133.6a20fe32.PNG",
     "static/media/App.css": "/reactportfolio/static/media/workdaysched.ca045295.png",
     "static/media/codingk.4cff93d4.png": "/reactportfolio/static/media/codingk.4cff93d4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35478697.js",
-    "static/js/2.c07b828b.chunk.js",
+    "static/js/runtime-main.27ebb979.js",
+    "static/js/2.8a9d07a1.chunk.js",
     "static/css/main.8385af3c.chunk.css",
-    "static/js/main.022aada9.chunk.js"
+    "static/js/main.887434d1.chunk.js"
   ]
 }
